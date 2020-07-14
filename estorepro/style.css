@@ -1,0 +1,142 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 1 May, 2020, 1:56:34 PM
+    Author     : AKHILA
+*/
+
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 26 Apr, 2020, 12:53:37 PM
+    Author     : AKHILA
+*/
+footer{
+    position: relative;
+    left: 0;
+    bottom: 0;
+    padding: 10px 0;
+    background-color: #101010;
+    color:#9d9d9d;
+    width: 100%;
+}
+.row_style{
+    margin-top: 10px;
+}
+#login-panel{
+    font-weight:normal;
+    margin-top: 15%;
+    margin-right: 17%;
+    
+}
+#index-body{
+    font-weight: normal;
+    margin-top: 10%;
+    padding-right: 10%
+}
+#loginfooter{
+     position: fixed;
+    left: 0;
+    bottom: 0;
+    padding: 10px 0;
+    background-color: #101010;
+    color:#9d9d9d;
+    width: 100%;
+}
+#aboutusfooter{
+    position: relative;
+    left: 0;
+    bottom: 0;
+    padding: 10px 0;
+    background-color: #101010;
+    color:#9d9d9d;
+    width: 110%;
+}
+#cart{
+    margin-left: 30%;
+}
+#register_form {
+  width: 37%;
+  margin: 100px auto;
+  padding-bottom: 30px;
+  border: 1px solid #918274;
+  border-radius: 5px;
+  background: white;
+}
+#register_form input {
+  width: 80%;
+  height: 35px;
+  margin: 5px 10%;
+  font-size: 1.1em;
+  padding: 4px;
+  font-size: .9em;
+}
+.form_error span {
+  width: 80%;
+  height: 35px;
+  margin: 3px 10%;
+  font-size: 1.1em;
+  color: #D83D5A;
+}
+.form_error input {
+  border: 1px solid #D83D5A;
+}
+#reg_btn {
+  height: 35px;
+  width: 80%;
+  margin: 5px 10%;
+  color: white;
+  background: #3B5998;
+  border: none;
+  border-radius: 5px;
+}
+table,th,tr{
+    text-align: center;
+    
+}
+table th{
+    background-color: #efefef;
+}
+#forget{
+    margin-top: 10%;
+}
+.inner-banner-image{
+    padding-top: 12%;
+    width: 80%;
+    margin: auto;
+}
+.banner-content{
+    position: relative;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    overflow: hidden;
+    margin-bottom: 12%;
+    background-color: #455A64;
+    max-width: 660px;
+    color: white;
+}
+#sub{
+    background-color: #E64A19;
+    color: #FFFFFF;
+}
+.successcontent{
+    position: relative;
+    padding-top: 6%;
+    padding-bottom: 6%;
+    overflow: hidden;
+    margin-bottom: 12%;
+    background-color: #F5F5F5;
+    max-width: 660px;
+    color: black;
+}
+
+table#cart tbody td .form-control{
+		width:20%;
+		display: inline !important;
+	}
